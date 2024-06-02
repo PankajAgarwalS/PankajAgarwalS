@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 </p>
 <br/>
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pankajagarwals&theme=default&hide_border=false&include_all_commits=true&count_private=false"/>
@@ -38,11 +39,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajagarwals&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 <br/>
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pankajagarwals&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 <br/>
+
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
